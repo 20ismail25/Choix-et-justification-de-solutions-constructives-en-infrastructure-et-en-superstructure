@@ -13,11 +13,8 @@ respect des normes d'accessibilité PMR.
 ### Caractéristiques techniques
 
 Structure : Ossature bois (système poteau-poutre).  
-
 Isolation : Fibre de bois (100mm) et laine de chanvre (100mm).  
-
 Systèmes : Pompe à chaleur double service et ventilation double flux.  
-
 Performance : Coefficient de déperdition Ubat de 0,42 W/(m2.K).
 
 ### Indicateurs de performance (RE2020)
