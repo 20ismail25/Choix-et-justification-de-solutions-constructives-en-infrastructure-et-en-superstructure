@@ -33,7 +33,7 @@ L'analyse montre que les composants représentent 48,36 % de l'impact carbone to
 
 ### Livrables disponibles
 
-Maquette numérique complète (ArchiCAD).
-Simulation Thermique Dynamique (Pleiades).
-Note de calcul et argumentaire technique.
-Vidéo de présentation du projet en anglais.
+* Maquette numérique complète (ArchiCAD).
+* Simulation Thermique Dynamique (Pleiades).
+* Note de calcul et argumentaire technique.
+* Vidéo de présentation du projet en anglais.
