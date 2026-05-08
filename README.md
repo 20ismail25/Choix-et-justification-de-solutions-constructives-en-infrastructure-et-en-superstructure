@@ -1,7 +1,7 @@
 # Projet : Base Nautique de l'Étang des Forges 
 
-Localisation : Belfort, France
-Typologie : Établissement Recevant du Public (ERP)
+Localisation : Belfort, France  
+Typologie : Établissement Recevant du Public (ERP)  
 Domaine : Génie Civil et Construction Durable
 
 ### Description du projet
