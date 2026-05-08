@@ -15,22 +15,14 @@ Isolation : Fibre de bois (100mm) et laine de chanvre (100mm).
 Systèmes : Pompe à chaleur double service et ventilation double flux.
 Performance : Coefficient de déperdition Ubat de 0,42 W/(m2.K).
 
-Indicateurs de performance (RE2020)
+### Indicateurs de performance (RE2020)
 
-Indicateur Valeur calculée Seuil limite
-
-Bbio 57,7 pts 116,6 pts
-
-Cep 91,2 kWh/m2.an 120,3 kWh/m2.an
-Ic Énergie 118,5 kg eq CO2/m2 358,9 kg eq CO2/m2
-•
-•
-•
-•
-
-Indicateur Valeur calculée Seuil limite
-
-Ic Construction 255,8 kg eq CO2/m2 646,3 kg eq CO2/m2
+| Indicateur | Valeur calculée | Seuil limite | État |
+| :--- | :---: | :---: | :---: |
+| **Bbio** | 57,7 pts | 116,6 pts | ✅ |
+| **Cep** | 91,2 kWh/m².an | 120,3 kWh/m².an | ✅ |
+| **Ic Énergie** | 118,5 kg eq CO2/m² | 358,9 kg eq CO2/m² | ✅ |
+| **Ic Construction** | 255,8 kg eq CO2/m² | 646,3 kg eq CO2/m² | ✅ |
 
 Analyse du Cycle de Vie (ACV)
 L'analyse montre que les composants représentent 48,36 % de l'impact carbone total. Les
