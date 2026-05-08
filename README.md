@@ -1,15 +1,17 @@
-Projet : Base Nautique de l'Étang des Forges 
+##### Projet : Base Nautique de l'Étang des Forges 
 
 Localisation : Belfort, France
 Typologie : Établissement Recevant du Public (ERP)
 Domaine : Génie Civil et Construction Durable
 
-Description du projet
+### Description du projet
+
 Conception d'un bâtiment destiné aux activités nautiques, au VTT et à l'escalade. Le projet
 met l'accent sur l'utilisation de matériaux biosourcés, l'optimisation énergétique et le
 respect des normes d'accessibilité PMR.
 
-Caractéristiques techniques
+### Caractéristiques techniques
+
 Structure : Ossature bois (système poteau-poutre).
 Isolation : Fibre de bois (100mm) et laine de chanvre (100mm).
 Systèmes : Pompe à chaleur double service et ventilation double flux.
@@ -24,11 +26,13 @@ Performance : Coefficient de déperdition Ubat de 0,42 W/(m2.K).
 | **Ic Énergie** | 118,5 kg eq CO2/m² | 358,9 kg eq CO2/m² | ✅ |
 | **Ic Construction** | 255,8 kg eq CO2/m² | 646,3 kg eq CO2/m² | ✅ |
 
-Analyse du Cycle de Vie (ACV)
+### Analyse du Cycle de Vie (ACV)
+
 L'analyse montre que les composants représentent 48,36 % de l'impact carbone total. Les
 éléments les plus impactants sont la toiture (37 %) et l'infrastructure (34 %).
 
-Livrables disponibles
+### Livrables disponibles
+
 Maquette numérique complète (ArchiCAD).
 Simulation Thermique Dynamique (Pleiades).
 Note de calcul et argumentaire technique.
